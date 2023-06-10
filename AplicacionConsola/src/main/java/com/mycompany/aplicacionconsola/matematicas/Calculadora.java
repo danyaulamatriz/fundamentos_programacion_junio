@@ -29,5 +29,8 @@ public class Calculadora {
     public double getResta(){
         return  operacion1-operacion2;
     }
+    public double getDivision(){
+        return  operacion1/operacion2;
+    }
     
 }
